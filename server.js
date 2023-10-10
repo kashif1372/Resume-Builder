@@ -7,7 +7,6 @@ const userRoute = require("./routes/userRoute");
 const path = require("path");
 app.use("/api/user/", userRoute);
 
-
 app.use("/", express.static("client/build"));
 
 app.get("*", (req, res) => {
