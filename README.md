@@ -2,6 +2,8 @@
 
 Live Link :--> https://resume-builder-sigma-one.vercel.app/
 
+![Screenshot (214)](https://github.com/kashif1372/Resume-Builder/assets/67710001/28f003b6-66ba-4d8b-b253-95620331cfbe)
+
 ![Screenshot (210)](https://github.com/kashif1372/Resume-Builder/assets/67710001/058f12a8-5670-4aee-aec0-0e0e26dcce6c)
 
 ![Screenshot (211)](https://github.com/kashif1372/Resume-Builder/assets/67710001/df50e3bd-63eb-468a-940a-1615dcdbb6f9)
